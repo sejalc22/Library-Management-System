@@ -3,7 +3,6 @@
 Mini Project
 NAME: Sejal Chaudhari
 ROLL NUMBER: 2323
-C NUMBER: C22019221325
 
 */
 
